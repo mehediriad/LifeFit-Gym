@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# [LifeFit Gym](https://lifefit-gym.web.app)
+
+### Live Site Link : https://lifefit-gym.web.app/
+
+# Basic Info on LifeFit Gym
+### We Support to find a helthy life
+### LifeFit Gym provides world-class health, Yoga, fitness & nutrition
+### certification program to world class professionals
+
 ## Available Scripts
 
 In the project directory, you can run:
